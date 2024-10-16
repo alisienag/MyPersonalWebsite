@@ -1,0 +1,11 @@
+.nav .logo {
+  width: 40%;
+}
+
+.nav .elements {
+  width: 40%;
+}
+
+.nav .elements ul li {
+  font-size: 2.5vh;
+}
